@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+body {
+    background-color: gold;
+}
+#enter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 8px solid #1967D2;
+    width: 25rem;
+    height: 4rem;
+    margin-left: 18rem;
+    margin-top: 12rem;
+    background-color: blanchedalmond;
+    border-radius: 100px;
+
+}
+
+
+#key-no {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 16px solid red;
+    background-color: rgb(52, 197, 242);
+    width: 10rem;
+    height: 8rem;
+    margin-left: 26rem;
+    margin-top: 1rem;
+    font-size: 6rem;
+}
